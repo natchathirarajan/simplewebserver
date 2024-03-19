@@ -82,11 +82,14 @@ Testing the webserver.
 </html>
 ```
 
-
+Name:V.Natchathira Rajan
+reg no:212221040112
 ## OUTPUT:
 ![alt text](<ex-1 output.png>)
 ![alt text](samplewebservercommand1.png)
 
 ![alt text](<Sample webserver command2.png>)
+![alt text](oupt-3command.png)
+
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
